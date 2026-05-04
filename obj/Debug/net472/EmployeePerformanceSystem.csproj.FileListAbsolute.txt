@@ -1,0 +1,32 @@
+C:\Users\mct\OneDrive\Desktop\mids q1\EmployeePerformanceSystem\bin\Debug\net472\EmployeePerformanceSystem.exe.config
+C:\Users\mct\OneDrive\Desktop\mids q1\EmployeePerformanceSystem\bin\Debug\net472\EmployeePerformanceSystem.exe
+C:\Users\mct\OneDrive\Desktop\mids q1\EmployeePerformanceSystem\bin\Debug\net472\EmployeePerformanceSystem.pdb
+C:\Users\mct\OneDrive\Desktop\mids q1\EmployeePerformanceSystem\obj\Debug\net472\EmployeePerformanceSystem.csproj.AssemblyReference.cache
+C:\Users\mct\OneDrive\Desktop\mids q1\EmployeePerformanceSystem\obj\Debug\net472\EmployeePerformanceSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mct\OneDrive\Desktop\mids q1\EmployeePerformanceSystem\obj\Debug\net472\EmployeePerformanceSystem.AssemblyInfoInputs.cache
+C:\Users\mct\OneDrive\Desktop\mids q1\EmployeePerformanceSystem\obj\Debug\net472\EmployeePerformanceSystem.AssemblyInfo.cs
+C:\Users\mct\OneDrive\Desktop\mids q1\EmployeePerformanceSystem\obj\Debug\net472\EmployeePerformanceSystem.csproj.CoreCompileInputs.cache
+C:\Users\mct\OneDrive\Desktop\mids q1\EmployeePerformanceSystem\obj\Debug\net472\EmployeePerformanceSystem.exe
+C:\Users\mct\OneDrive\Desktop\mids q1\EmployeePerformanceSystem\obj\Debug\net472\EmployeePerformanceSystem.pdb
+C:\Users\Lenovo\Downloads\Student Result Management System\mids q1\mids q1\EmployeePerformanceSystem\bin\Debug\net472\EmployeePerformanceSystem.exe.config
+C:\Users\Lenovo\Downloads\Student Result Management System\mids q1\mids q1\EmployeePerformanceSystem\bin\Debug\net472\EmployeePerformanceSystem.exe
+C:\Users\Lenovo\Downloads\Student Result Management System\mids q1\mids q1\EmployeePerformanceSystem\bin\Debug\net472\EmployeePerformanceSystem.pdb
+C:\Users\Lenovo\Downloads\Student Result Management System\mids q1\mids q1\EmployeePerformanceSystem\obj\Debug\net472\EmployeePerformanceSystem.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Student Result Management System\mids q1\mids q1\EmployeePerformanceSystem\obj\Debug\net472\EmployeePerformanceSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\Student Result Management System\mids q1\mids q1\EmployeePerformanceSystem\obj\Debug\net472\EmployeePerformanceSystem.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\Student Result Management System\mids q1\mids q1\EmployeePerformanceSystem\obj\Debug\net472\EmployeePerformanceSystem.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\Student Result Management System\mids q1\mids q1\EmployeePerformanceSystem\obj\Debug\net472\EmployeePerformanceSystem.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Student Result Management System\mids q1\mids q1\EmployeePerformanceSystem\obj\Debug\net472\EmployeePerformanceSystem.sourcelink.json
+C:\Users\Lenovo\Downloads\Student Result Management System\mids q1\mids q1\EmployeePerformanceSystem\obj\Debug\net472\EmployeePerformanceSystem.exe
+C:\Users\Lenovo\Downloads\Student Result Management System\mids q1\mids q1\EmployeePerformanceSystem\obj\Debug\net472\EmployeePerformanceSystem.pdb
+C:\Users\Lenovo\source\repos\NewRepo\mids q1\mids q1\EmployeePerformanceSystem\bin\Debug\net472\EmployeePerformanceSystem.exe.config
+C:\Users\Lenovo\source\repos\NewRepo\mids q1\mids q1\EmployeePerformanceSystem\bin\Debug\net472\EmployeePerformanceSystem.exe
+C:\Users\Lenovo\source\repos\NewRepo\mids q1\mids q1\EmployeePerformanceSystem\bin\Debug\net472\EmployeePerformanceSystem.pdb
+C:\Users\Lenovo\source\repos\NewRepo\mids q1\mids q1\EmployeePerformanceSystem\obj\Debug\net472\EmployeePerformanceSystem.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\NewRepo\mids q1\mids q1\EmployeePerformanceSystem\obj\Debug\net472\EmployeePerformanceSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\NewRepo\mids q1\mids q1\EmployeePerformanceSystem\obj\Debug\net472\EmployeePerformanceSystem.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\NewRepo\mids q1\mids q1\EmployeePerformanceSystem\obj\Debug\net472\EmployeePerformanceSystem.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\NewRepo\mids q1\mids q1\EmployeePerformanceSystem\obj\Debug\net472\EmployeePerformanceSystem.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\NewRepo\mids q1\mids q1\EmployeePerformanceSystem\obj\Debug\net472\EmployeePerformanceSystem.sourcelink.json
+C:\Users\Lenovo\source\repos\NewRepo\mids q1\mids q1\EmployeePerformanceSystem\obj\Debug\net472\EmployeePerformanceSystem.exe
+C:\Users\Lenovo\source\repos\NewRepo\mids q1\mids q1\EmployeePerformanceSystem\obj\Debug\net472\EmployeePerformanceSystem.pdb
